@@ -1,0 +1,6 @@
+{
+    "mq2_warning": 140,
+    "mq2_critical": 340,
+    "mq7_warning": 150,
+    "mq7_critical": 300
+}
